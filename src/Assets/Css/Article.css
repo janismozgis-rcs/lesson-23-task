@@ -1,0 +1,6 @@
+.images-wrapper img {
+    max-width: 100%;
+}
+.small-cat-image {
+    cursor: pointer;
+}
